@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>مساق تحليل الأزمات السياسية الدولية</title>
+
+<link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+<style>
+body{
+font-family: Arial;
+background:#f4f6f8;
+text-align:center;
+direction:rtl;
+}
+
+h1{color:#003366;}
+
+table{
+width:90%;
+margin:auto;
+border-collapse:collapse;
+background:white;
+}
+
+th,td{
+border:1px solid #ccc;
+padding:12px;
+}
+
+th{
+background:#003366;
+color:white;
+}
+
+.icon{
+font-size:26px;
+color:#0066cc;
+}
+
+.time{
+color:#009933;
+font-weight:bold;
+}
+
+.btn{
+background:#0F9D58;
+color:white;
+padding:8px 15px;
+text-decoration:none;
+border-radius:6px;
+font-weight:bold;
+}
+
+.btn:hover{background:#0c7c45;}
+
+.done{
+color:green;
+font-weight:bold;
+}
+</style>
+</head>
+
+<body>
+
+<h1>مساق تحليل الأزمات السياسية الدولية</h1>
+<h3>كل يوم أحد من الساعة 12:00 إلى 14:00</h3>
+
+<table>
+<tr>
+<th>رقم</th>
+<th>الأيقونة</th>
+<th>التاريخ</th>
+<th>الوقت</th>
+<th>الدخول</th>
+<th>الحالة</th>
+</tr>
+
+<tr>
+<td>1</td>
+<td class="icon"><i class="fa-solid fa-video"></i></td>
+<td>23 / 11 / 2025</td>
+<td class="time">12:00 - 14:00</td>
+<td><a class="btn" href="https://meet.google.com/fxr-bzxx-bqy" target="_blank">دخول</a></td>
+<td class="done">✔️ تم إنجازها</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td class="icon"><i class="fa-solid fa-video"></i></td>
+<td>30 / 11 / 2025</td>
+<td class="time">12:00 - 14:00</td>
+<td><a class="btn" href="https://meet.google.com/fxr-bzxx-bqy" target="_blank">دخول</a></td>
+<td class="done">✔️ تم إنجازها</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td class="icon"><i class="fa-solid fa-video"></i></td>
+<td>7 / 12 / 2025</td>
+<td class="time">12:00 - 14:00</td>
+<td><a class="btn" href="https://meet.google.com/fxr-bzxx-bqy" target="_blank">دخول</a></td>
+<td class="done">✔️ تم إنجازها</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td class="icon"><i class="fa-solid fa-video"></i></td>
+<td>14 / 12 / 2025</td>
+<td class="time">12:00 - 14:00</td>
+<td><a class="btn" href="https://meet.google.com/fxr-bzxx-bqy" target="_blank">دخول</a></td>
+<td class="done">✔️ تم إنجازها</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td class="icon"><i class="fa-solid fa-video"></i></td>
+<td>21 / 12 / 2025</td>
+<td class="time">12:00 - 14:00</td>
+<td><a class="btn" href="https://meet.google.com/fxr-bzxx-bqy" target="_blank">دخول</a></td>
+<td class="done">✔️ تم إنجازها</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td class="icon"><i class="fa-solid fa-video"></i></td>
+<td>28 / 12 / 2025</td>
+<td class="time">12:00 - 14:00</td>
+<td><a class="btn" href="https://meet.google.com/fxr-bzxx-bqy" target="_blank">دخول</a></td>
+<td class="done">✔️ تم إنجازها</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td class="icon"><i class="fa-solid fa-video"></i></td>
+<td>4 / 1 / 2026</td>
+<td class="time">12:00 - 14:00</td>
+<td><a class="btn" href="https://meet.google.com/fxr-bzxx-bqy" target="_blank">دخول</a></td>
+<td class="done">✔️ تم إنجازها</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td class="icon"><i class="fa-solid fa-video"></i></td>
+<td>11 / 1 / 2026</td>
+<td class="time">12:00 - 14:00</td>
+<td><a class="btn" href="https://meet.google.com/fxr-bzxx-bqy" target="_blank">دخول</a></td>
+<td class="done">✔️ تم إنجازها</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td class="icon"><i class="fa-solid fa-video"></i></td>
+<td>18 / 1 / 2026</td>
+<td class="time">12:00 - 14:00</td>
+<td><a class="btn" href="https://meet.google.com/fxr-bzxx-bqy" target="_blank">دخول</a></td>
+<td class="done">✔️ تم إنجازها</td>
+</tr>
+
+<!-- المحاضرات القادمة -->
+
+<tr>
+<td>10</td>
+<td class="icon"><i class="fa-solid fa-video"></i></td>
+<td>25 / 1 / 2026</td>
+<td class="time">12:00 - 14:00</td>
+<td><a class="btn" href="https://meet.google.com/fxr-bzxx-bqy" target="_blank">دخول</a></td>
+<td>⏳</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td class="icon"><i class="fa-solid fa-video"></i></td>
+<td>1 / 2 / 2026</td>
+<td class="time">12:00 - 14:00</td>
+<td><a class="btn" href="https://meet.google.com/fxr-bzxx-bqy" target="_blank">دخول</a></td>
+<td>⏳</td>
+</tr>
+
+<tr>
+<td>12</td>
+<td class="icon"><i class="fa-solid fa-video"></i></td>
+<td>8 / 2 / 2026</td>
+<td class="time">12:00 - 14:00</td>
+<td><a class="btn" href="https://meet.google.com/fxr-bzxx-bqy" target="_blank">دخول</a></td>
+<td>⏳</td>
+</tr>
+
+</table>
+
+</body>
+</html>
